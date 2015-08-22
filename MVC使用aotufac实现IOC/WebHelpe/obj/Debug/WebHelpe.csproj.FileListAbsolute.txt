@@ -1,0 +1,9 @@
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\WebHelpe\obj\Debug\WebHelpe.csprojResolveAssemblyReference.cache
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\WebHelpe\bin\Debug\WebHelpe.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\WebHelpe\bin\Debug\WebHelpe.pdb
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\WebHelpe\bin\Debug\Autofac.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\WebHelpe\bin\Debug\Autofac.Integration.Mvc.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\WebHelpe\bin\Debug\Autofac.xml
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\WebHelpe\bin\Debug\Autofac.Integration.Mvc.xml
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\WebHelpe\obj\Debug\WebHelpe.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\WebHelpe\obj\Debug\WebHelpe.pdb

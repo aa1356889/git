@@ -1,0 +1,7 @@
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\IBLL\bin\Debug\IBLL.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\IBLL\bin\Debug\IBLL.pdb
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\IBLL\obj\Debug\IBLL.csprojResolveAssemblyReference.cache
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\IBLL\obj\Debug\IBLL.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\IBLL\obj\Debug\IBLL.pdb
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\IBLL\bin\Debug\Endity.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\IBLL\bin\Debug\Endity.pdb

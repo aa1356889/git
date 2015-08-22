@@ -1,0 +1,7 @@
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\IDAL\bin\Debug\IDAL.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\IDAL\bin\Debug\IDAL.pdb
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\IDAL\obj\Debug\IDAL.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\IDAL\obj\Debug\IDAL.pdb
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\IDAL\bin\Debug\Endity.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\IDAL\bin\Debug\Endity.pdb

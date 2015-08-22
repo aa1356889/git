@@ -1,0 +1,13 @@
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\BLL\bin\Debug\BLL.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\BLL\bin\Debug\BLL.pdb
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\BLL\bin\Debug\IBLL.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\BLL\bin\Debug\IDAL.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\BLL\bin\Debug\IBLL.pdb
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\BLL\bin\Debug\IDAL.pdb
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\BLL\obj\Debug\BLL.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\BLL\obj\Debug\BLL.pdb
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\BLL\bin\Debug\Endity.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\BLL\bin\Debug\Endity.pdb
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\Test\bin\BLL.dll
+D:\QQ\李强个人资料\复习文档\开发工具\功能模块案例\MVC使用aotufac实现IOC\Test\bin\BLL.pdb
